@@ -3,6 +3,7 @@ Here to showcase projects and course work done in Advanced Data Analytics.
 <br/>
 #### Contents
   - [Exploratory Data Analysis](#projects)
+    - [Boston House Data Analysis](overview)
      
 <br/>
 
