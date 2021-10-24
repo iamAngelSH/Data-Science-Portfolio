@@ -1,6 +1,14 @@
 # Data Science Portfolio
 Projects and Course work using Exploratory Data Analysis, Predictive Data Analysis, and Machine Learning techniques.
 
+### Contents
+  - [Projects](#projects)
+    - [Boston House Data Analysis](#exploratory-data-analysis-and-predictive-analysis-using-r-boston-house-data)
+     
+<br/>
+
+
+
 **Languages used**: 
 
 <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -28,11 +36,6 @@ Projects and Course work using Exploratory Data Analysis, Predictive Data Analys
 <br/>
 
 
-### Contents
-  - [Projects](#projects)
-    - [Boston House Data Analysis](#exploratory-data-analysis-and-predictive-analysis-using-r-boston-house-data)
-     
-<br/>
 
 <hr>
 <br/>
