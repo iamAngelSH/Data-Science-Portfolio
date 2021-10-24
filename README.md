@@ -49,7 +49,7 @@ Projects and Course work using Exploratory Data Analysis, Predictive Data Analys
 
 
 If you are going to download the file make sure the following libraries are installed.
-### Libraries used:
+### Libraries used in this Project:
 For Visualization:
 ```R
 library(corrplot)
