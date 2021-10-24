@@ -1,7 +1,12 @@
 # Advanced Data Analytics
-Here to showcase projects and course work done in Advanced Data Analytics.
+Projects and Course work using Exploratory Data Analysis, Predictive Data Analysis, and Machine Learning techniques.
+
+**Languages used**: 
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <br/>
-#### Contents
+### Contents
   - [Projects](#projects)
     - [Boston House Data Analysis](#exploratory-data-analysis-and-predictive-analysis-using-r-boston-house-data)
      
@@ -44,12 +49,15 @@ Here to showcase projects and course work done in Advanced Data Analytics.
 
 
 If you are going to download the file make sure the following libraries are installed.
-#### Libraries used:
+### Libraries used:
 For Visualization:
-- corrplot
-- lattice
-- ggplot2
-- plotly
-
+```R
+library(corrplot)
+library(lattice)
+library(ggplot2)
+library(plotly)
+```
 For Data Splitting
-- dplyr
+```R
+library(dplyr)
+```
