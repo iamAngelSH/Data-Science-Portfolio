@@ -1,4 +1,4 @@
-# Advanced Data Analytics
+# Data Science Portfolio
 Projects and Course work using Exploratory Data Analysis, Predictive Data Analysis, and Machine Learning techniques.
 
 **Languages used**: 
