@@ -2,9 +2,12 @@
 Here to showcase projects and course work done in Advanced Data Analytics.
 <br/>
 #### Contents
-  - [Exploratory Data Analysis](#projects)
+  - [Projects](#projects)
     - [Boston House Data Analysis](#exploratory-data-analysis-and-predictive-analysis-using-r-boston-house-data)
      
+<br/>
+
+<hr>
 <br/>
 
 
