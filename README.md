@@ -21,6 +21,8 @@ Projects and Course work using Exploratory Data Analysis, Predictive Data Analys
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=Keras&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/scikit_learn-F7931E.svg?logo=scikit-learn&logoColor=white"></a>
+  
 </p>
 
 **💻 Software and tools**
