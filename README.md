@@ -4,6 +4,7 @@ Projects and Course work using Exploratory Data Analysis, Predictive Data Analys
 ### Contents
   - [Projects](#projects)
     - [Boston House Data Analysis](#exploratory-data-analysis-and-predictive-analysis-using-r-boston-house-data)
+    - [Amazon Stock Price Prediction](#predictive-analysis-using-python-amazon-stock-price-prediction)
      
 <br/>
 
@@ -88,3 +89,7 @@ For Data Splitting
 ```R
 library(dplyr)
 ```
+
+
+## Predictive Analysis using Python: Amazon Stock Price Prediction
+
