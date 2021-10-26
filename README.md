@@ -1,7 +1,7 @@
 ![Data Science Portfolio](/Extras/DataScience.gif)
 
 
-Projects and Course work using Exploratory Data Analysis, Predictive Data Analysis, and Machine Learning techniques.
+Projects using Exploratory Data Analysis, Predictive Data Analysis, and Machine Learning techniques.
 
 ### Contents
   - [Projects](#projects)
