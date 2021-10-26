@@ -125,6 +125,41 @@ library(dplyr)
         ```
     - From here, I then got the best R^2 score from the best combination of values and used to create the SVm Regression model 
 
+    - The results are based from October 25, 2021 through 15 days out.
+    - Here are the final results:
+    ```Python
+    | Stock Price: $3116.55 |
+	  --------------------
+	| Stock Price: $3097.92 |
+	  --------------------
+	| Stock Price: $3031.01 |
+	  --------------------
+	| Stock Price: $3021.73 |
+	  --------------------
+	| Stock Price: $3024.18 |
+	  --------------------
+	| Stock Price: $3160.62 |
+	  --------------------
+	| Stock Price: $3168.1 |
+	  --------------------
+	| Stock Price: $3172.84 |
+	  --------------------
+	| Stock Price: $3166.63 |
+	  --------------------
+	| Stock Price: $3166.21 |
+	  --------------------
+	| Stock Price: $3179.58 |
+	  --------------------
+	| Stock Price: $3183.07 |
+	  --------------------
+	| Stock Price: $3189.64 |
+	  --------------------
+	| Stock Price: $3185.4 |
+	  --------------------
+	| Stock Price: $3182.98 |
+	  --------------------
+    ```
+
 
 I encourage you to try this out with different values and see what you get! 
 
