@@ -1,4 +1,6 @@
-# Data Science Portfolio
+![Data Science Portfolio](/Extras/DataScience.gif)
+
+
 Projects and Course work using Exploratory Data Analysis, Predictive Data Analysis, and Machine Learning techniques.
 
 ### Contents
@@ -73,6 +75,11 @@ Projects and Course work using Exploratory Data Analysis, Predictive Data Analys
     - Linear Model: Y = lm(Y ~ A + B, ...)
          - First-order model in A, with no interaction terms
 
+Let me know if you have any questions by messaging me on one of the following:
+- [LinkedIn](https://www.linkedin.com/in/angelsantanahernandez/)
+- [Twitter](https://twitter.com/TribalDux)
+- [Instagram](https://www.instagram.com/_angelsh__/)
+
 ❗IMPORTANT❗
 
 
@@ -96,4 +103,66 @@ library(dplyr)
 
 
 ## Predictive Analysis using Python: Amazon Stock Price Prediction
+**Overview**
+- A **Predictive Analysis** project involving Stock Market data
+- Goal was to prepare data to use for stock price prediction using a Machine Learning Algorithm
+  - This inlcuded using *Yahoo Finance API* 
+  - Reviewing our data
+  - Visuals
+    - Line plot to show Adj Close vs. Stock Prediction
+- Predictive Analysis using Support Vector Machine 
+  -  Setup for the model:
+    - kernel = 'rbf'
+    - For our C value and gamma, I did a couple things:
+      - created different classifiers that ranged in values
+      - C Value range:
+        ```Python 
+        c_value = [0.1, 1.0, 10.0, 100.0, 1000.0]
+        ```  
+      - gamma value range:
+        ```Python
+        gamma_Values = [1e-2, 1e-3, 1e-4, 1e-5, 1e-6, 1e-7]
+        ```
+    - From here, I then got the best R^2 score from the best combination of values and used to create the SVm Regression model 
 
+
+I encourage you to try this out with different values and see what you get! 
+
+Let me know by messaging me on one of the following:
+- [LinkedIn](https://www.linkedin.com/in/angelsantanahernandez/)
+- [Twitter](https://twitter.com/TribalDux)
+- [Instagram](https://www.instagram.com/_angelsh__/)
+
+
+❗IMPORTANT❗
+
+
+If you are going to download the file make sure the following libraries are installed.
+
+
+**Libraries used in this Project:**
+
+Data Preprocessing/Manipulation
+```Python
+import pandas as pd
+import numpy as np
+```
+
+Visualization
+```Python
+import matplotlib.pyplot as plt
+import seaborn as sns
+```
+
+
+Stock Market Data from Yahoo Finance API
+```Python
+import yfinance as yf
+```
+
+Support Vector Machine Model
+```Python
+from sklearn.svm import SVC
+from sklearn.metrics import accuracy_score, precision_score
+from sklearn.model_selection import train_test_split
+```
