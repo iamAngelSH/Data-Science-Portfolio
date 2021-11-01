@@ -77,7 +77,7 @@ Projects using Exploratory Data Analysis, Predictive Data Analysis, and Machine 
 
 Let me know if you have any questions by messaging me on one of the following:
 - [LinkedIn](https://www.linkedin.com/in/angelsantanahernandez/)
-- [Twitter](https://twitter.com/TribalDux)
+- [Twitter](https://twitter.com/_AngelSHX)
 - [Instagram](https://www.instagram.com/_angelsh__/)
 
 ❗IMPORTANT❗
@@ -165,7 +165,7 @@ I encourage you to try this out with different values and see what you get!
 
 Let me know by messaging me on one of the following:
 - [LinkedIn](https://www.linkedin.com/in/angelsantanahernandez/)
-- [Twitter](https://twitter.com/TribalDux)
+- [Twitter](https://twitter.com/_AngelSHX)
 - [Instagram](https://www.instagram.com/_angelsh__/)
 
 
