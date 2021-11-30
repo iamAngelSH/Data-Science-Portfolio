@@ -78,7 +78,6 @@ Projects using Exploratory Data Analysis, Predictive Data Analysis, and Machine 
 Let me know if you have any questions by messaging me on one of the following:
 - [LinkedIn](https://www.linkedin.com/in/angelsantanahernandez/)
 - [Twitter](https://twitter.com/angelsh_dev)
-- [Instagram](https://www.instagram.com/angelsh.exe/)
 
 ❗IMPORTANT❗
 
