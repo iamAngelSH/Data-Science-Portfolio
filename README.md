@@ -75,9 +75,9 @@ Projects using Exploratory Data Analysis, Predictive Data Analysis, and Machine 
     - Linear Model: Y = lm(Y ~ A + B, ...)
          - First-order model in A, with no interaction terms
 
-Let me know if you have any questions by messaging me on one of the following:
-- [LinkedIn](https://www.linkedin.com/in/angelsantanahernandez/)
-- [Twitter](https://twitter.com/angelsh_dev)
+Let me know if you have an questions via [email](mailto:angelash303@gmail.com).
+
+View full project [here](https://github.com/iamAngelSH/Data-Science-Portfolio/blob/main/EDA_BostonHousing_Data/EDA_Boston_House_Data.ipynb)
 
 ❗IMPORTANT❗
 
@@ -162,10 +162,9 @@ library(dplyr)
 
 I encourage you to try this out with different values and see what you get! 
 
-Let me know by messaging me on one of the following:
-- [LinkedIn](https://www.linkedin.com/in/angelsantanahernandez/)
-- [Twitter](https://twitter.com/angelsh_dev)
-- [Instagram](https://www.instagram.com/angelsh.exe/))
+Let me know if you have an questions via [email](mailto:angelash303@gmail.com).
+
+View the full project [here](https://github.com/iamAngelSH/Data-Science-Portfolio/blob/main/Stock_Price_Prediction/Stock_Price_Prediction.ipynb).
 
 
 ❗IMPORTANT❗
