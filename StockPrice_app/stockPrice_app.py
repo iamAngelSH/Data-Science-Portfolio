@@ -41,3 +41,17 @@ bullet_points = '''
 st.markdown(bullet_points)
 
 st.markdown('---') # Add a page break
+
+# --- FUNCTION TO READ IN DATA ---
+def showStockNames():
+    # ONLY NEED SYMBOL AND NAME
+    stockName_df = pd.read_csv(
+        'Data/stockNames.csv', 
+        index_col = 0, 
+        usecols= ['Symbol', 'Name']
+        )
+
+    return stockName_df
+
+# --- END READ DATA FUNCTION ---
+
