@@ -7,6 +7,7 @@ Projects using Exploratory Data Analysis, Predictive Data Analysis, and Machine 
   - [Projects](#projects)
     - [Boston House Data Analysis](#exploratory-data-analysis-and-predictive-analysis-using-r-boston-house-data)
     - [Amazon Stock Price Prediction](#predictive-analysis-using-python-amazon-stock-price-prediction)
+    - [Loan Status Prediction](#predictive-analysis-using-linear-regression-loan-status)
      
 <br/>
 
@@ -199,3 +200,61 @@ from sklearn.svm import SVC
 from sklearn.metrics import accuracy_score, precision_score
 from sklearn.model_selection import train_test_split
 ```
+
+
+## Predictive Analysis using Linear Regression: [Loan Status](https://github.com/iamAngelSH/Data-Science-Portfolio/blob/main/Loan_Prediction/Loan_Prediction.ipynb)
+**Overview**
+- A **Predictive Analysis** project involving loan data to predict whether or not someone can recieve a loan.
+- Goal was to prepare data to use for stock price prediction using a Machine Learning Algorithm
+  - This inlcuded using a dataset from [Kaggle](https://www.kaggle.com/) 
+  	- We used 2 different datasets: Training/Testing
+ - This process included:
+ 	- Preliminary Data Analysis
+ 	- Data Cleaning
+ 	- Exploratory Data Analysis
+ 	- Data Preprocessing for Modeling
+ 	- Machine Learning Implementation
+ 
+ - Machine Learning Implementation: Logistic Regression
+ 	- Using logistic regression we looked at the followin to decided the best parameters:
+```python
+parameters_log_reg = {
+    'penalty' :['l2'],
+    'C' : [0.01, 0.1, 1, 2, 10, 100]
+} 
+```  
+- Our results:
+	- Yes on a Loan
+		- Applicant Income: 52k
+		- Loan Amount 14k
+		- Has Credit History
+	- no on a Loan
+		- Applicant Income: 34k
+		- Loan Amount: 13k
+		- No credit history   	
+
+
+❗IMPORTANT❗
+
+
+If you are going to download the file make sure the following libraries are installed.
+```python
+
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
+
+from sklearn.preprocessing import LabelEncoder
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import confusion_matrix
+from sklearn.metrics import classification_report
+from sklearn import metrics
+from sklearn.metrics import accuracy_score
+from sklearn.model_selection import GridSearchCV
+
+
+from sklearn.linear_model import LogisticRegression
+
+```
+Let me know if you have an questions via [email](mailto:angelash303@gmail.com).
