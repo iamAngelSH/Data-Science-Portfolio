@@ -3,7 +3,6 @@ version: "3.9"  # optional since v1.27.0
 services:
   jupyter:
     build: .
-    # image: angelash/datascience-notebook
     image:  jupyter/pyspark-notebook
     ports:
       - "9090:8888"
