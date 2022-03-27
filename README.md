@@ -258,3 +258,5 @@ from sklearn.linear_model import LogisticRegression
 
 ```
 Let me know if you have an questions via [email](mailto:angelash303@gmail.com).
+
+<hr>
